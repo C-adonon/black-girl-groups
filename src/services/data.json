@@ -1,0 +1,136 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "The Supremes",
+      "decade": "60's",
+      "year": 1964,
+      "img": "the-supremes/album-2.png",
+      "url": "the-supremes",
+      "song": "Baby Love",
+      "audio": "baby-love.mp3",
+      "content": {
+        "description": "Baby Love is a song by American music group the Supremes from their second studio album, Where Did Our Love Go. It was written and produced by Motown's main production team Holland-Dozier-Holland and was released on September 17, 1964. Beginning with Baby Love, the Supremes became the first Motown act to have more than one American number-one single, and by the end of the decade, would have more singles hitting the top slot than any other Motown act (or American pop music group) with 12, a record they continue to hold.",
+        "about_group": "The Supremes was an American girl group and a premier act of Motown Records during the 1960s. Founded as the Primettes in Detroit, Michigan, in 1959, the Supremes were the most commercially successful of Motown's acts and the most successful American vocal band.",
+        "img": [
+          "the-supremes/the-supremes-4.jpg",
+          "the-supremes/the-supremes-2.jpg"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/9_y6nFjoVp4",
+        "credits": [
+          "Wikipedia,",
+          "\"Baby Love\": Performed by: The Supremes | Produced By: Holland-Dozier, Lamont Dozier & Brian Holland | Written By: Holland-Dozier-Holland, Brian Holland, Lamont Dozier & Eddie Holland | Label: Motown Records"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sister Sledge",
+      "decade": "70's",
+      "year": 1979,
+      "img": "sister-sledge/album-1.png",
+      "url": "sister-sledge",
+      "song": "We are family",
+      "audio": "we-are-family.mp3",
+      "content": {
+        "description": "We Are Family is a song recorded by American vocal group Sister Sledge. Composed by Bernard Edwards and Nile Rodgers, they both offered the song to Atlantic Records; although the record label initially declined, the track was released in April 1979 as a single from the album of the same name (1979) and began to gain club and radio play, eventually becoming the group's signature song.",
+        "about_group": "Sister Sledge is an American musical vocal group from Philadelphia, Pennsylvania. Formed in 1971, the group consisted of sisters Debbie, Joni, Kim, and Kathy Sledge. The siblings achieved international success at the height of the disco era.",
+        "img": [
+          "sister-sledge/sister-sledge-2.jpg",
+          "sister-sledge/sister-sledge-4.jpg"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/uyGY2NfYpeE",
+        "credits": [
+          "Wikipedia,",
+          "\"We are family\" : Performed by: Sister Sledge | Produced By: Nile Rodgers & Bernard Edwards | Written By: Bernard Edwards & Nile Rodgers | Label: Cotillion Records"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "The pointer sisters",
+      "decade": "80's",
+      "year": 1982,
+      "img": "the-pointer-sisters/album-1.png",
+      "url": "the-pointer-sisters",
+      "song": "I’m so excited",
+      "audio": "im-so-excited.mp3",
+      "content": {
+        "description": "I'm So Excited is a song by American vocal group the Pointer Sisters. Jointly written and composed by the sisters in collaboration with Trevor Lawrence, it was originally released in September 1982, reaching number 30 on the US Billboard Hot 100. This was followed by a remixed re-release in July 1984, reaching number 9 on the Billboard Hot 100. Billboard named the song number 23 on their list of : 100 Greatest Girl Group Songs Of All Time.",
+        "about_group": "The Pointer Sisters are an American girl group from Oakland, California, which achieved mainstream success during the 1970s and 1980s. Their repertoire has included such diverse genres as R&B, pop, jazz, electronic music, bebop, blues, soul, funk, dance, country, and rock.",
+        "img": ["the-pointer-sisters/ps-4.jpg", "the-pointer-sisters/ps-2.png"],
+        "video": "https://www.youtube-nocookie.com/embed/8iwBM_YB1sE",
+        "credits": [
+          "Wikipedia,",
+          "\"’m so excited\": Performed by: The pointer sisters | Produced By: Chris Christian & Richard Perry | Written By: Ruth Pointer, June Pointer, Anita Pointer & Trevor Lawrence | Copyright: Planet Records (Label) | Publisher: EMI Blackwood Music, Braintree Music & Til Dawn Music | Label: Planet Records (Label) & RCA Records | Performance Rights: BMI"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "TLC",
+      "decade": "90's",
+      "year": 1999,
+      "img": "tlc/album-1.png",
+      "url": "tlc",
+      "song": "No scrubs",
+      "audio": "no-scrubs.mp3",
+      "content": {
+        "description": "No Scrubs, the lead single of FanMail, topped the charts in the US in April 1999. It also went to #1 in Australia, Ireland and New Zealand, and reached the top 5 in several more countries. The song earned the girl group their second Grammy nomination for Record of the Year and claimed the #2 spot in NME’s Top Tracks of 1999.",
+        "about_group": "TLC is an American girl group formed in Atlanta, Georgia, in 1990. The group's best-known line-up was composed of Tionne T-Boz Watkins, Lisa Left Eye Lopes and Rozonda Chilli Thomas.",
+        "img": ["tlc/tlc-1.jpg", "tlc/tlc-2.jpg"],
+        "video": "https://www.youtube-nocookie.com/embed/FrLequ6dUdM",
+        "credits": [
+          "Genius,",
+          "Wikipedia,",
+          "\"No scrubs\": Performed by: TLC | Produced By: Kevin “She’kspere” Briggs | Written By: Tameka “Tiny” Harris, Kandi, Lisa “Left Eye” Lopes & Kevin “She’kspere” Briggs | Executive Producer: LA Reid, Babyface, Dallas Austin & TLC | Label: LaFace Records & Arista Records | Copyright © - LaFace Records & Arista Records | Publisher: Shek’em Down Music, Kandacy Music, Tam Music, Tony Mercedes Music, Air Control Music, EMI April Music & Hitco Music | Performance Rights: ASCAP"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Destiny’s chlid",
+      "decade": "00's",
+      "year": 2004,
+      "img": "destinys-child/album-1.png",
+      "url": "destinys-child",
+      "song": "Lose My Breath",
+      "audio": "lose-my-breath.mp3",
+      "content": {
+        "description": "Lose My Breath is a song recorded by American group Destiny's Child for their fourth and last studio album Destiny Fulfilled (2004). It was written by Beyoncé, Kelly Rowland, Michelle Williams, Rodney Jerkins, LaShawn Daniels, Fred Jerkins III, Sean Garrett and Jay-Z. The song was partially developed by Jerkins before being presented to Destiny's Child; its chorus was afterwards rewritten by Jay-Z.",
+        "about_group": "A girl group founded and managed by Matthew Knowles, father of its most famous member and current pop icon Beyoncé. Destiny’s Child was an R&B girl group whose final and best-known line-up comprised Beyoncé Knowles, Kelly Rowland, and Michelle Williams.",
+        "img": [
+          "destinys-child/destinys-child-3.jpg",
+          "destinys-child/destinys-child-4.jpg"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/AqeIiF0DlTg",
+        "credits": [
+          "Genius,",
+          "Wikipedia,",
+          "\"Lose My Breath\": Performed by: Destiny’s chlid | Produced By: Fred Jerkins III & Rodney Jerkins | Written By: Beyoncé, Fred Jerkins III, JAY-Z, Kelly Rowland, LaShawn Daniels, Michelle Williams, Rodney Jerkins & Sean Garrett | Copyright © – Sony BMG Music Entertainment"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "FLO",
+      "decade": "Now",
+      "year": 2022,
+      "img": "flo/album-1.png",
+      "url": "flo",
+      "song": "Cardboard box",
+      "audio": "cardboard-box.mp3",
+      "content": {
+        "description": "Produced and co-written by the UK hit-maker MNEK, “Cardboard Box” works as the debut single by the British girl group FLO. It’s an 90s R&B influenced track in which the girls give a farewell message to their ex-partners. The song serves as the lead single to their debut EP.",
+        "about_group": "FLO are a British girl group from London consisting of members Jorja Douglas, Stella Quaresma, and Renée Downer. The group formed in 2019 and signed to Island Records, where they released their breakthrough single Cardboard Box, which preceded their debut extended play.",
+        "img": ["flo/flo-1.jpg", "flo/flo-3.jpg"],
+        "video": "https://www.youtube-nocookie.com/embed/VuUzZ7yz6AI",
+        "credits": [
+          "Genius,",
+          "Wikipedia,",
+          "\"Cardboardbox\": Performed by: FLO | Produced By: MNEK | Written By: Renée Downer, Jorja Douglas, Stella Quaresma, Savannah Jada & MNEK | Published by: Warner/Chappell | Label: Island Records & Universal Music Group"
+        ]
+      }
+    }
+  ]
+}

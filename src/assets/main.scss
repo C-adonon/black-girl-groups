@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$white: #fff9e6;
+$black: #1d1d1d;
+
+$supremes: #246c7f;
+// $supremes: #9f8527;
+$sister-sledge: #aa3825;
+$pointer-sisters: #2999a0;
+$tlc: #6b2626;
+$destinys-child: #a93e6d;
+$flo: #888d4a;
+
+body {
+  font-family: "Inter", sans-serif;
+  background: url("/bg-overlay.png"), $black;
+  background-blend-mode: overlay, normal;
+  color: $white;
+
+  #app {
+    width: 95%;
+    margin: 0 auto;
+  }
+}
+
+// GLOBAL BACKGROUND IMAGE
+
+img.record-player {
+  max-height: 100%;
+  position: absolute;
+  z-index: -1;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0.8;
+
+  &.home {
+    filter: none;
+  }
+  &.the-supremes {
+    filter: drop-shadow(0 0 5px $supremes) drop-shadow(0 0 10px $supremes)
+      drop-shadow(0 0 15px $supremes) drop-shadow(0 0 20px $supremes);
+  }
+  &.sister-sledge {
+    filter: drop-shadow(0 0 5px $sister-sledge)
+      drop-shadow(0 0 10px $sister-sledge) drop-shadow(0 0 15px $sister-sledge)
+      drop-shadow(0 0 20px $sister-sledge);
+  }
+  &.the-pointer-sisters {
+    filter: drop-shadow(0 0 5px $pointer-sisters)
+      drop-shadow(0 0 10px $pointer-sisters)
+      drop-shadow(0 0 15px $pointer-sisters)
+      drop-shadow(0 0 20px $pointer-sisters);
+  }
+  &.tlc {
+    filter: drop-shadow(0 0 5px $tlc) drop-shadow(0 0 10px $tlc)
+      drop-shadow(0 0 15px $tlc) drop-shadow(0 0 20px $tlc);
+  }
+  &.destinys-child {
+    filter: drop-shadow(0 0 5px $destinys-child)
+      drop-shadow(0 0 10px $destinys-child)
+      drop-shadow(0 0 15px $destinys-child)
+      drop-shadow(0 0 20px $destinys-child);
+  }
+  &.flo {
+    filter: drop-shadow(0 0 5px $flo) drop-shadow(0 0 10px $flo)
+      drop-shadow(0 0 15px $flo) drop-shadow(0 0 20px $flo);
+  }
+}
